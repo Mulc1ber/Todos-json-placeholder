@@ -1,0 +1,17 @@
+.App {
+    text-align: center;
+    width: 900px;
+    margin: 0 auto;
+}
+
+.Title {
+    position: relative;
+    display: block;
+    padding: .4em .4em .4em 2em;
+    margin: .5em 0;
+    background: #d0d0d0;
+    color: #444;
+    text-decoration: none;
+    border-radius: .3em;
+    transition: .3s ease-out;
+}
